@@ -137,8 +137,8 @@
       <div class="container-fluid p-0">
         <div class="row no-gutters popup-gallery">
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/1.jpg') }}">
-              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/1.jpg') }}" alt="">
+            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/7.jpg') }}">
+              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/7.jpg') }}" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -152,8 +152,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/2.jpg') }}">
-              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/2.jpg') }}" alt="">
+            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/8.jpg') }}">
+              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/8.jpg') }}" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -167,8 +167,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/3.jpg') }}">
-              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/3.jpg') }}" alt="">
+            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/9.jpg') }}">
+              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/9.jpg') }}" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -182,8 +182,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/4.jpg') }}">
-              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/4.jpg') }}" alt="">
+            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/10.jpg') }}">
+              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/10.jpg') }}" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -197,8 +197,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/5.jpg') }}">
-              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/5.jpg') }}" alt="">
+            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/11.jpg') }}">
+              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/11.jpg') }}" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -212,8 +212,8 @@
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/6.jpg') }}">
-              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/6.jpg') }}" alt="">
+            <a class="portfolio-box" href="{{ asset('template/img/portfolio/fullsize/12.jpg') }}">
+              <img class="img-fluid" src="{{ asset('template/img/portfolio/thumbnails/12.jpg') }}" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
@@ -249,12 +249,12 @@
         <div class="row">
           <div class="col-lg-4 ml-auto text-center">
             <i class="fas fa-phone fa-3x mb-3 sr-contact-1"></i>
-            <p>123-456-6789</p>
+            <p>+62-81-810-8129</p>
           </div>
           <div class="col-lg-4 mr-auto text-center">
             <i class="fas fa-envelope fa-3x mb-3 sr-contact-2"></i>
             <p>
-              <a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+              <a href="pkmbrp.undip@gmail.com">pkmbrp.undip@gmail.com</a>
             </p>
           </div>
         </div>
