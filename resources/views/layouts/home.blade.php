@@ -50,7 +50,7 @@
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ url('login') }}">Login</a>
+              <a class="nav-link btn btn-sm btn-warning" href="{{ url('login') }}">Login</a>
             </li>
           </ul>
         </div>
